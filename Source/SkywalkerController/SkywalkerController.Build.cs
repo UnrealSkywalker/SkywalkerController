@@ -39,6 +39,7 @@ public class SkywalkerController : ModuleRules
 				"Slate",
 				"SlateCore",
 				"EnhancedInput",
+                "AIModule",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
